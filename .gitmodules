@@ -1,9 +1,0 @@
-[submodule "PolydungClient"]
-	path = PolydungClient
-	url = ./PolydungClient
-[submodule "PolydungModding"]
-	path = PolydungModding
-	url = ./PolydungModding
-[submodule "PolydungServer"]
-	path = PolydungServer
-	url = ./PolydungServer
