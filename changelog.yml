@@ -1,0 +1,11 @@
+"vtrack_version": "0.0.1"
+"software_name": "Polydung"
+"software_tags": ['2d', 'oldschool', 'multiplayer', 'realtime', 'topdown', 'roguelite', 'game']
+"versions":
+    -   name: "0.0.1"
+        changes:
+            - "Adopted the VTrack version description format."
+            - "Initial commit."
+        
+        todo: {}
+        done: []
